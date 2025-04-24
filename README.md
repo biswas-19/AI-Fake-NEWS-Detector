@@ -1,4 +1,4 @@
-# AI-Fake-NEWS-Detector
+
 1.Overview
   This project aims to develop an AI-based system to detect fake news using machine learning and natural language processing (NLP). The model is trained on labeled news 
   articles and predicts whether a news statement is real or fake. Several classification algorithms, including Logistic Regression and Passive Aggressive Classifier, are 
